@@ -20,7 +20,7 @@ TermiChat is a real-time chat application that runs in the terminal. Built with 
 git clone https://github.com/your-username/terminal-chat.git
 cd terminal-chat
 npm run start
-
+```
 ---
 
 Let me know if you want:
